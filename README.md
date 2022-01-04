@@ -1,2 +1,2 @@
 # project
- this is a project and excercise
+  project and excercise
